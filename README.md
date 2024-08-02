@@ -2,7 +2,7 @@
 
 Meu nome é Naiara
 
-- Estou estudando no [Alura](https:
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguaguem JavaScript
 - Utulizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
